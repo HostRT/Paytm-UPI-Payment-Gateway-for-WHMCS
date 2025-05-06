@@ -4,6 +4,10 @@ Easily integrate Paytm UPI payment gateway into your WHMCS billing system using 
 
 ![Paytm Logo](https://business.paytm.com/s3assets/images/app-download/svg/Group120455.svg)
 
+## Buy Now
+
+Buy this WHMCS Module only at Rs.499 [Buy Now](https://manage.hostrt.in/store/whmcs-plugins/paytm-upi-payment-gateway-for-whmcs)
+
 ## Features
 
 - ✅ **One-Time Payment** – ₹499 only
@@ -37,13 +41,28 @@ Easily integrate Paytm UPI payment gateway into your WHMCS billing system using 
 6. Done! Start accepting payments via UPI.
 
 ## Screenshot
+### PayTM Business Merchant Key
+![PayTM Business Merchant Key](https://raw.githubusercontent.com/HostRT/Paytm-UPI-Payment-Gateway-for-WHMCS/refs/heads/main/Merchant%20Key.png)
 
-![WHMCS Module Screenshot](https://yourdomain.com/path-to-screenshot.png)
+### PayTM Business QR Code/UPI ID
+![PayTM Business QR Code/UPI ID](https://raw.githubusercontent.com/HostRT/Paytm-UPI-Payment-Gateway-for-WHMCS/refs/heads/main/UPI%20ID.png)
 
-## License
+### WHMCS Module
+![WHMCS Module Screenshot](https://raw.githubusercontent.com/HostRT/Paytm-UPI-Payment-Gateway-for-WHMCS/refs/heads/main/Module%20Setting.png)
 
-This module is licensed for **lifetime use on a single domain**. Redistribution is prohibited.
+### WHMCS Billing Page
+![WHMCS Billing Page](https://raw.githubusercontent.com/HostRT/Paytm-UPI-Payment-Gateway-for-WHMCS/refs/heads/main/Invoice.png)
+
+### WHMCS Payment Page
+![WHMCS Payment Page](https://raw.githubusercontent.com/HostRT/Paytm-UPI-Payment-Gateway-for-WHMCS/refs/heads/main/QRGenerated.png)
+
+### WHMCS Successful Page
+![WHMCS Successful Page](https://raw.githubusercontent.com/HostRT/Paytm-UPI-Payment-Gateway-for-WHMCS/refs/heads/main/Successful.png)
+
+## Buy Now
+
+Buy this WHMCS Module only at Rs.499 [Buy Now](https://manage.hostrt.in/store/whmcs-plugins/paytm-upi-payment-gateway-for-whmcs)
 
 ---
 
-💬 For support or queries, contact: [your-email@example.com](mailto:your-email@example.com)
+💬 For support or queries, [Login And Create a Support Ticket](https://manage.hostrt.in/)
