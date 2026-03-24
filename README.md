@@ -6,7 +6,7 @@ Easily integrate Paytm UPI payment gateway into your WHMCS billing system using 
 
 ## Buy Now
 
-Buy this WHMCS Module only at Rs.499 [Buy Now](https://manage.hostrt.in/store/whmcs-plugins/paytm-upi-payment-gateway-for-whmcs)
+Buy this WHMCS Module only at Rs.499 [Buy Now](https://manage.hostrt.in/store/plugin-and-modules/paytm-upi-payment-gateway-module-for-whmcs)
 
 ## Features
 
@@ -61,7 +61,7 @@ Buy this WHMCS Module only at Rs.499 [Buy Now](https://manage.hostrt.in/store/wh
 
 ## Buy Now
 
-Buy this WHMCS Module only at Rs.499 [Buy Now](https://manage.hostrt.in/store/whmcs-plugins/paytm-upi-payment-gateway-for-whmcs)
+Buy this WHMCS Module only at Rs.499 [Buy Now](https://manage.hostrt.in/store/plugin-and-modules/paytm-upi-payment-gateway-module-for-whmcs)
 
 ---
 
